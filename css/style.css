@@ -299,13 +299,8 @@ td {
 }
 
 .img {
-    background-image: url();
-    background-position: absolute;
-    background-size: auto;
-    background-repeat: no-repeat;
-}
-
-.img {
     background-image: url(../imgs/figure_1.png);
     background-position: bottom;
+    background-size: auto;
+    background-repeat: no-repeat;
 }
